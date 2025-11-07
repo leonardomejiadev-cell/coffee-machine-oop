@@ -112,7 +112,7 @@ Here is your latte ☕️. Enjoy!
 ## 👤 Author
 
 **Leonardo Mejia**
-- GitHub: [leonardomejiadev-cell](https://github.com/yourusername)
+- GitHub: [leonardomejiadev-cell](https://github.com/leonardomejiadev-cell)
 - Learning Journey: 100 Days of Code - Python
 
 ## 📝 License
